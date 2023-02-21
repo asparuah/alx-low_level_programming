@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "putchar.c"
 
 /**
  * main - Entry point
