@@ -1,11 +1,14 @@
 #include "main.h"
 #include "6-abs.c"
 #include <stdio.h>
-
 /**
- * print_to_98 - Prints all natural nubers from input to 98.
- * @n: number.  
+ * print_to_98 - main function
+ *
+ * @n: integer to get last digit of
+ * Return: last digit of n
+ *
  */
+
 void print_to_98(int n)
 {
 	int i;
