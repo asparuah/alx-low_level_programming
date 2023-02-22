@@ -6,6 +6,7 @@
  * print_to_98 - Prints all natural nubers from input to 98 
  *              
  * @n: The number to begin counting at. 
+ * Return: Always 0.
  */
 void print_to_98(int n)
 {
