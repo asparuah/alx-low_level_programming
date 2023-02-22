@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - Prints all natural nubers from input to 98. 
+ * print_to_98 - Prints all natural nubers from input to 98 
  *              
  * @n: The number to begin counting at. 
  */
