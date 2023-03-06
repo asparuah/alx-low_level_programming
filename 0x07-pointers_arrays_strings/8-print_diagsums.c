@@ -31,5 +31,3 @@ void print_diagsums(int *a, int size)
 	}
 	printf("%d\n", sum);
 }
-Footer
-© 2023 GitHub, Inc.
