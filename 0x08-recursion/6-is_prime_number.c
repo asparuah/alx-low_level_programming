@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 /**
  * helper - does it for me
  * @i: helper int
